@@ -1,9 +1,9 @@
-# GettingandCleaningDataAssignment
-Coursera Getting and Cleaning Data Assignment
-Sept 5 2020
-Euclides Mendonça
-euclidesmendonca.f@gmail.com
-------------------------------------------------
+# GettingandCleaningDataAssignment  
+Coursera Getting and Cleaning Data Assignment  
+Sept 5 2020  
+Euclides Mendonça  
+euclidesmendonca.f@gmail.com  
+------------------------------------------------  
 This file describes the steps for the coursera assignment.
 
 The run_analysis.R file cointains the code used to extract and process the data from
