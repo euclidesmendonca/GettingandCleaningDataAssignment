@@ -1,48 +1,60 @@
 The file rundatatidy.txt was created from data collected from the accelerometers from the Samsung Galaxy S smartphone.  
+XYZ is used to denote 3-axial signals in the X, Y and Z directions.  
+
 It is composed by  
 **Participant identification**  
 ID  
-
-**Modality of data (train or test)**
-modality
-**Body accelaration**
+  
+**Modality of data (train or test)**  
+modality  
+  
+**Body accelaration**  
 TimeBodyAcc.mean.X  
 TimeBodyAcc.mean.Y  
 TimeBodyAcc.mean.Z  
 TimeBodyAcc.std.X  
 TimeBodyAcc.std.Y  
 TimeBodyAcc.std.Z  
-*
+  
+**Gravity accelaration**  
 TimeGravityAcc.mean.X  
 TimeGravityAcc.mean.Y  
 TimeGravityAcc.mean.Z  
 TimeGravityAcc.std.X  
 TimeGravityAcc.std.Y  
 TimeGravityAcc.std.Z  
+  
+**Jerk body acceleration acceleration**  
 TimeBodyAccJerk.mean.X  
 TimeBodyAccJerk.mean.Y  
 TimeBodyAccJerk.mean.Z  
 TimeBodyAccJerk.std.X  
 TimeBodyAccJerk.std.Y  
 TimeBodyAccJerk.std.Z  
+  
+**Body gyro**  
 TimeBodyGyro.mean.X  
 TimeBodyGyro.mean.Y  
 TimeBodyGyro.mean.Z  
 TimeBodyGyro.std.X  
 TimeBodyGyro.std.Y  
 TimeBodyGyro.std.Z  
+**Body gyro jerk**  
 TimeBodyGyroJerk.mean.X  
 TimeBodyGyroJerk.mean.Y  
 TimeBodyGyroJerk.mean.Z  
 TimeBodyGyroJerk.std.X  
 TimeBodyGyroJerk.std.Y  
 TimeBodyGyroJerk.std.Z  
+  
+**Body Acceleration Magnitude**  
 TimeBodyAccMag.mean  
 TimeBodyAccMag.std  
 TimeGravityAccMag.mean  
 TimeGravityAccMag.std  
 TimeBodyAccJerkMag.mean  
 TimeBodyAccJerkMag.std  
+**Body Gyro Magnitude**  
 TimeBodyGyroMag.mean  
 TimeBodyGyroMag.std  
 TimeBodyGyroJerkMag.mean  
