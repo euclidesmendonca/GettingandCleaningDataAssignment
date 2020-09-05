@@ -3,7 +3,7 @@ The file rundatatidy.txt was created from data collected from the accelerometers
 The time and frequency prefix denote time and frequency captured at a constant rate of 50 Hz.   
 XYZ is used to denote 3-axial signals in the X, Y and Z directions.  
 
-It final file is composed by mean aggregated mesures for each subject.   
+The final file is composed by mean aggregated measures for each subject.   
 **Participant identification**  
 ID  
   
