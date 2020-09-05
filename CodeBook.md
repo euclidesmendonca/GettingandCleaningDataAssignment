@@ -3,7 +3,7 @@ The file rundatatidy.txt was created from data collected from the accelerometers
 The time and frequency prefix denote time and frequency captured at a constant rate of 50 Hz.   
 XYZ is used to denote 3-axial signals in the X, Y and Z directions.  
 
-It is composed by  
+It final file is composed by mean aggregated mesures for each subject.   
 **Participant identification**  
 ID  
   
@@ -100,13 +100,13 @@ TimeBodyGyroJerkMag.std
 **Body body measures**  
 FrequencyBodyBodyAccJerkMag.mean  
 FrequencyBodyBodyAccJerkMag.std  
-FrequencyBodyBodyAccJerkMag.meanFreq
-FrequencyBodyBodyGyroMag.mean
-FrequencyBodyBodyGyroMag.std
-FrequencyBodyBodyGyroMag.meanFreq
-FrequencyBodyBodyGyroJerkMag.mean
-FrequencyBodyBodyGyroJerkMag.std
-FrequencyBodyBodyGyroJerkMag.meanFreq
+FrequencyBodyBodyAccJerkMag.meanFreq  
+FrequencyBodyBodyGyroMag.mean  
+FrequencyBodyBodyGyroMag.std  
+FrequencyBodyBodyGyroMag.meanFreq  
+FrequencyBodyBodyGyroJerkMag.mean  
+FrequencyBodyBodyGyroJerkMag.std  
+FrequencyBodyBodyGyroJerkMag.meanFreq  
   
 **Angle**  
 angletBodyAccMean.gravity  
